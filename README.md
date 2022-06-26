@@ -3,12 +3,12 @@
 <h2>SOBRE MIM</h2>
 <p>Comecei a estudar programação com 12 anos, começando com a lingaugem Python. Entretanto, por conta de fatores particulares, pausei meus estudos e retornei aos 14 anos, agora com JavaScript e o combo HTML5 e CSS3.</p>
 <br>
-<p>Atualmente tenho 15 anos e pretendo trabalhar profissionalmente na área de engenharia de software</p>
+<p>Atualmente tenho 16 anos e pretendo trabalhar profissionalmente na área de engenharia de software</p>
 <h2>COMPETÊNCIAS</h2>
 <ul>
   <li>JavaScript</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>TailwindCSS</li>
+  <li>Python</li>
  </ul>
  
