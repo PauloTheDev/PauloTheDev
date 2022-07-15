@@ -1,6 +1,6 @@
 <h1 align='center'>Hello World!🖖</h1>
 <div id="header" align="center">
-  <img src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif" width="500"/>
+  <img src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif" width="200"/>
 </div>
 
 <h2 align='center'>My Social Midias</h2>
