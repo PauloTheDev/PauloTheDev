@@ -40,6 +40,18 @@
   </li>
 </ul>
 
+<h3> studying </h3>
+<ul>
+  <li>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png' width=20/>
+    <strong>ReactJS</strong>
+  </li>
+  <li>
+    <img src='https://cdn3.iconfinder.com/data/icons/science-indigo-vol-1/256/Artificial_Intelligence-512.png' width=20/c>
+    <strong>AI - Artificial Intelligence</strong> 
+  </li>
+</ul>
+
 <div align='center'>
 <img  width='500' src='https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=6c09b9528bb28nb2e6v4kueeukgxmxbqgysw5ctu0s67hxui&rid=giphy.gif&ct=s'>
   
